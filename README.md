@@ -1,11 +1,10 @@
-# Mi primer proyecto HTML
-# ��� Proyecto: CV Digital - Gianmario Conforto
+# 📄 Proyecto: CV Digital - Gianmario Conforto
 
 Este repositorio contiene la versión digital de mi perfil profesional, desarrollada íntegramente con **HTML5 semántico**. Es un proyecto que refleja mi metodología de trabajo en **Operaciones y Customer Success**: orden, estructura lógica y atención al detalle.
 
 ---
 
-## ��� Detalles Técnicos y Arquitectura
+## 📖 Detalles Técnicos y Arquitectura
 No solo he escrito etiquetas, sino que he diseñado una arquitectura de información pensada en la accesibilidad y el SEO:
 
 * **Estructura Semántica Profesional:** - Uso de `<header>` para la identidad de marca personal.
@@ -17,14 +16,14 @@ No solo he escrito etiquetas, sino que he diseñado una arquitectura de informac
 
 ---
 
-## ���️ Tecnologías Utilizadas
+## 🛠️ Tecnologías Utilizadas
 * **HTML5:** Para la estructura ósea del documento.
 * **Git & Git Bash:** Control de versiones y gestión de ramas por terminal.
 * **Visual Studio Code:** Entorno de desarrollo con extensiones de productividad (Live Server, Indent-Rainbow).
 
 ---
 
-## ��� Cómo clonar este repositorio
+## 📥 Cómo clonar este repositorio
 Si deseas descargar una copia de este proyecto en tu máquina local para estudiarlo o editarlo, sigue estos pasos:
 
 1.  **Abre tu terminal** (Git Bash, PowerShell o Terminal de Linux).
@@ -38,11 +37,10 @@ Si deseas descargar una copia de este proyecto en tu máquina local para estudia
 
 ---
 
-## ��� Próximos Pasos
+## 🚀 Próximos Pasos
 - [ ] Implementar **CSS3** para el diseño visual y tipografía.
 - [ ] Añadir iconos sociales con FontAwesome.
 - [ ] Desplegar de forma permanente mediante **GitHub Pages**.
 
 ---
 *Perfil profesional orientado a la resolución de problemas y optimización de procesos.*
-
