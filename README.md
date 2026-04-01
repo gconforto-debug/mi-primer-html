@@ -9,7 +9,7 @@ No solo he escrito etiquetas, sino que he diseñado una arquitectura de informac
 
 * **Estructura Semántica Profesional:** - Uso de `<header>` para la identidad de marca personal.
     - Implementación de `<main>` para separar el contenido de valor de los elementos globales.
-    - Uso de `<section>` para segmentar áreas lógicas como "About Me" e "Experience".
+    - Uso de `<section>` para segmentar áreas lógicas como "About Me" y "Experience".
 * **Jerarquía de Contenidos:** - He aplicado un orden lógico de títulos (`h1` a `h3`). El `h1` identifica al profesional, los `h2` las áreas principales y los `h3` las empresas y cargos específicos.
 * **Optimización Técnica:** - Configuración de `UTF-8` para la correcta visualización de caracteres especiales (tildes y ñ).
     - Inclusión de `viewport` para asegurar que el contenido sea legible en dispositivos móviles.
